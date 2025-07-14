@@ -27,48 +27,55 @@ This project is a fully functional, Casio-style **Scientific Calculator** built 
 
 ## 📁 Project Structure
 
-```bash
 📦 codealpha_tasks2/
-├── index.html     # Calculator UI layout
-├── index.css      # Styling and layout
-├── index.js       # Functional logic
-└── README.md      # Project documentation
-🚀 Getting Started
-✅ Run Locally
-Clone the repository
+├── index.html # Calculator UI layout
+├── index.css # Styling and layout
+├── index.js # Functional logic
+└── README.md # Project documentation
 
-bash
+yaml
 Copy
 Edit
-git clone https://github.com/rakshithdn/codealpha_tasks2.git
-Navigate to the folder
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/rakshithdn/codealpha_tasks2.git
+Navigate to the project folder
 
 bash
 Copy
 Edit
 cd codealpha_tasks2
-Open in browser
+Open the project
 
-Just open index.html in any modern web browser.
+Open index.html in any modern web browser (Chrome, Firefox, Edge, etc.)
 
 🧪 Supported Operations
-sin(x), cos(x), tan(x)
-
-log(x), ln(x)
-
-sqrt(x), x^y, x!
-
-π, e
-
-Ans – Last calculated value
-
-⇄ Frac – Decimal to fraction conversion
+Category	Functions Supported
+Trigonometry	sin(x), cos(x), tan(x)
+Logarithmic	log(x), ln(x)
+Arithmetic	sqrt(x), x^y, x!
+Constants	π, e
+Advanced	Ans – Last calculated value
+Converter	⇄ Frac – Decimal to fraction
 
 🛠 Built With
 HTML5
 
 CSS3
 
-JavaScript
+JavaScript (ES6)
 
-Math.js – Expression parser and scientific math engine
+Math.js – Advanced math library for JavaScript
+
+yaml
+Copy
+Edit
+
+---
