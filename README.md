@@ -1,41 +1,38 @@
 # 🔢 Scientific Calculator – Web App
 
-This project is a fully functional, Casio-style **Scientific Calculator** built using **HTML**, **CSS**, **JavaScript**, and the powerful **Math.js** library for accurate scientific computation.
+This is a modern, fully functional **Scientific Calculator** with a Casio-inspired dark UI. Built using **HTML**, **CSS**, **JavaScript**, and powered by **Math.js** for accurate expression evaluation.
 
 ---
 
 ## 🌟 Features
 
-- 🎨 Casio-inspired dark UI design
-- 🧮 Scientific functions:
+- Casio-style dark theme and compact layout
+- Real-time input and expression evaluation
+- Responsive design (works on mobile + desktop)
+- Scientific operations:
   - Trigonometric: `sin`, `cos`, `tan`
   - Logarithmic: `log`, `ln`
   - Arithmetic: `√`, `^`, `!`
   - Constants: `π`, `e`
-- 🔁 Convert decimal to fraction (`⇄ Frac`)
-- 🔙 Recall previous result (`Ans`)
-- ⌨️ Keyboard and button input support
-- 📱 Fully responsive layout (mobile & desktop)
+- Advanced functions:
+  - `Ans` – recalls last calculated value
+  - `⇄ Frac` – converts decimals to fractions
+- Keyboard and button input support
 
 ---
 
 ## 🖥️ Live Demo
 
-👉 [Click to View Calculator](https://rakshithdn.github.io/codealpha_tasks2/)
+- 👉 [Click to Try the Calculator](https://rakshithdn.github.io/codealpha_tasks2/)
 
 ---
 
 ## 📁 Project Structure
 
-📦 codealpha_tasks2/
-├── index.html # Calculator UI layout
-├── index.css # Styling and layout
-├── index.js # Functional logic
-└── README.md # Project documentation
-
-yaml
-Copy
-Edit
+- `index.html` – Calculator UI layout  
+- `index.css` – Styling and layout  
+- `index.js` – Functional logic  
+- `README.md` – Project documentation  
 
 ---
 
@@ -44,38 +41,41 @@ Edit
 ### ✅ Run Locally
 
 1. **Clone the repository**
-   ```bash
+ 
    git clone https://github.com/rakshithdn/codealpha_tasks2.git
-Navigate to the project folder
 
-bash
-Copy
-Edit
-cd codealpha_tasks2
-Open the project
+2. **Navigate to the project folder**
 
-Open index.html in any modern web browser (Chrome, Firefox, Edge, etc.)
+  cd codealpha_tasks2
+  Open the project
 
-🧪 Supported Operations
-Category	Functions Supported
-Trigonometry	sin(x), cos(x), tan(x)
-Logarithmic	log(x), ln(x)
-Arithmetic	sqrt(x), x^y, x!
-Constants	π, e
-Advanced	Ans – Last calculated value
-Converter	⇄ Frac – Decimal to fraction
+Open the index.html file in any modern web browser (Chrome, Firefox, Edge, etc.)
 
-🛠 Built With
-HTML5
+--- 
 
-CSS3
+## 🧪 Supported Operations
+- Trigonometric: sin(x), cos(x), tan(x)
 
-JavaScript (ES6)
+- Logarithmic: log(x), ln(x)
 
-Math.js – Advanced math library for JavaScript
+- Arithmetic: sqrt(x), x^y, x!
 
-yaml
-Copy
-Edit
+- Constants: π, e
+
+- Advanced: Ans – Last calculated result
+
+- Converter: ⇄ Frac – Convert decimal to fraction
 
 ---
+
+## 🛠 Built With
+- HTML5
+
+- CSS3
+
+- JavaScript (ES6)
+
+- Math.js – Advanced math library for scientific expressions
+
+---
+##📸 Preview
