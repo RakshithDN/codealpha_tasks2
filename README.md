@@ -78,4 +78,6 @@ Open the index.html file in any modern web browser (Chrome, Firefox, Edge, etc.)
 - Math.js – Advanced math library for scientific expressions
 
 ---
-##📸 Preview
+## 📸 Preview
+
+![Scientific Calculator UI Preview](Screenshot.png)
